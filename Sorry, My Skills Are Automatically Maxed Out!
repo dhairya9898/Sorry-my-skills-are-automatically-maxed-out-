@@ -6,12 +6,12 @@
   "cover": "https://imgur.com/a/x9lWqrY",
   "chapters": {
     "1": {
-      "title": "Chapter 1",
+      "title": "Sorry, My Skills Are Automatically Maxed Out! [Chapter 1]",
       "volume": "",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/tjrJRXh/"
+        "DGSCANS": "/proxy/api/imgur/chapter/tjrJRXh/"
       },
-      "last_updated": "1616368746"
+      "last_updated": ""
     }
   }
 }
